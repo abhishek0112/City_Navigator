@@ -1,0 +1,76 @@
+2024-08-16 18:45:39,387 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-16 18:45:39,387 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-16 18:45:39,387 - werkzeug - INFO -  * Restarting with stat
+2024-08-16 18:45:39,730 - werkzeug - WARNING -  * Debugger is active!
+2024-08-16 18:45:39,764 - werkzeug - INFO -  * Debugger PIN: 132-035-638
+2024-08-16 18:45:50,600 - __main__ - INFO - Index route accessed
+2024-08-16 18:45:50,607 - werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 18:45:50] "GET / HTTP/1.1" 200 -
+2024-08-16 18:46:02,609 - __main__ - INFO - Bus route accessed with location: PUNJABI BAGH and destination: KAROL BAGH
+2024-08-16 18:46:02,624 - __main__ - INFO - Database connected successfully
+2024-08-16 18:46:02,629 - __main__ - INFO - Fetched 1 bus records for location: PUNJABI BAGH and destination: KAROL BAGH
+2024-08-16 18:46:02,634 - werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 18:46:02] "GET /bus?location=PUNJABI+BAGH&destination=KAROL+BAGH HTTP/1.1" 200 -
+2024-08-16 18:46:11,187 - __main__ - INFO - Bus route accessed with location: PUNJABI BAGH and destination: UTTAM NAGAR
+2024-08-16 18:46:11,187 - __main__ - INFO - Database connected successfully
+2024-08-16 18:46:11,189 - __main__ - INFO - Fetched 0 bus records for location: PUNJABI BAGH and destination: UTTAM NAGAR
+2024-08-16 18:46:11,190 - werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 18:46:11] "GET /bus?location=PUNJABI+BAGH&destination=UTTAM+NAGAR HTTP/1.1" 200 -
+2024-08-27 12:59:57,664 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 12:59:57,673 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 12:59:57,712 - werkzeug - INFO -  * Restarting with stat
+2024-08-27 12:59:59,676 - werkzeug - WARNING -  * Debugger is active!
+2024-08-27 12:59:59,695 - werkzeug - INFO -  * Debugger PIN: 134-910-399
+2024-08-27 13:00:36,248 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 13:00:36,248 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 13:00:36,269 - werkzeug - INFO -  * Restarting with stat
+2024-08-27 13:00:36,598 - werkzeug - WARNING -  * Debugger is active!
+2024-08-27 13:00:36,613 - werkzeug - INFO -  * Debugger PIN: 134-910-399
+2024-08-27 13:00:50,960 - __main__ - INFO - Index route accessed
+2024-08-27 13:00:51,163 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:00:51] "GET / HTTP/1.1" 200 -
+2024-08-27 13:00:51,321 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:00:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-27 13:01:38,482 - __main__ - INFO - Railway route accessed with location: NEW DELHI, time: 13:01, and destination: MATHURA
+2024-08-27 13:01:38,502 - __main__ - INFO - Database connected successfully
+2024-08-27 13:01:38,515 - __main__ - INFO - Fetched 0 train records for location: NEW DELHI, time: 13:01, and destination: MATHURA
+2024-08-27 13:01:38,688 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:01:38] "GET /railway?location=NEW+DELHI&time=13:01&destination=MATHURA HTTP/1.1" 200 -
+2024-08-27 13:12:03,735 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 13:12:03,735 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 13:12:03,751 - werkzeug - INFO -  * Restarting with stat
+2024-08-27 13:12:04,212 - werkzeug - WARNING -  * Debugger is active!
+2024-08-27 13:12:04,228 - werkzeug - INFO -  * Debugger PIN: 460-368-760
+2024-08-27 13:12:19,383 - __main__ - INFO - Index route accessed
+2024-08-27 13:12:19,472 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:12:19] "GET / HTTP/1.1" 200 -
+2024-08-27 13:12:19,758 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:12:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-27 13:12:42,582 - __main__ - INFO - Bus route accessed with location: PUNJABI BAGH and destination: KAROL BAGH
+2024-08-27 13:12:42,601 - __main__ - INFO - Database connected successfully
+2024-08-27 13:12:42,609 - __main__ - INFO - Fetched 1 bus records for location: PUNJABI BAGH and destination: KAROL BAGH
+2024-08-27 13:12:43,245 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:12:43] "GET /bus?location=PUNJABI+BAGH&destination=KAROL+BAGH HTTP/1.1" 200 -
+2024-08-27 13:12:59,227 - __main__ - INFO - Bus route accessed with location: NANGLOI and destination: SHADIPUR
+2024-08-27 13:12:59,236 - __main__ - INFO - Database connected successfully
+2024-08-27 13:12:59,240 - __main__ - INFO - Fetched 1 bus records for location: NANGLOI and destination: SHADIPUR
+2024-08-27 13:12:59,245 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:12:59] "GET /bus?location=NANGLOI&destination=SHADIPUR HTTP/1.1" 200 -
+2024-08-27 13:13:15,528 - __main__ - INFO - Bus route accessed with location: INDERPURI and destination: ROHINI
+2024-08-27 13:13:15,549 - __main__ - INFO - Database connected successfully
+2024-08-27 13:13:15,561 - __main__ - INFO - Fetched 1 bus records for location: INDERPURI and destination: ROHINI
+2024-08-27 13:13:15,564 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:13:15] "GET /bus?location=INDERPURI&destination=ROHINI HTTP/1.1" 200 -
+2024-08-27 13:13:48,036 - __main__ - INFO - Railway route accessed with location: NEW DELHI, time: 09:00, and destination: LUCKNOW
+2024-08-27 13:13:48,048 - __main__ - INFO - Database connected successfully
+2024-08-27 13:13:48,055 - __main__ - INFO - Fetched 1 train records for location: NEW DELHI, time: 09:00, and destination: LUCKNOW
+2024-08-27 13:13:48,168 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:13:48] "GET /railway?location=NEW+DELHI&time=09:00&destination=LUCKNOW HTTP/1.1" 200 -
+2024-08-27 13:13:56,231 - __main__ - INFO - Railway route accessed with location: NEW DELHI, time: 10:00, and destination: LUCKNOW
+2024-08-27 13:13:56,235 - __main__ - INFO - Database connected successfully
+2024-08-27 13:13:56,237 - __main__ - INFO - Fetched 1 train records for location: NEW DELHI, time: 10:00, and destination: LUCKNOW
+2024-08-27 13:13:56,239 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:13:56] "GET /railway?location=NEW+DELHI&time=10:00&destination=LUCKNOW HTTP/1.1" 200 -
+2024-08-27 13:14:03,775 - __main__ - INFO - Railway route accessed with location: NEW DELHI, time: 11:00, and destination: LUCKNOW
+2024-08-27 13:14:03,781 - __main__ - INFO - Database connected successfully
+2024-08-27 13:14:03,782 - __main__ - INFO - Fetched 0 train records for location: NEW DELHI, time: 11:00, and destination: LUCKNOW
+2024-08-27 13:14:03,782 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:14:03] "GET /railway?location=NEW+DELHI&time=11:00&destination=LUCKNOW HTTP/1.1" 200 -
+2024-08-27 13:14:19,460 - __main__ - INFO - Railway route accessed with location: DELHI, time: 11:00, and destination: PUNE
+2024-08-27 13:14:19,464 - __main__ - INFO - Database connected successfully
+2024-08-27 13:14:19,464 - __main__ - INFO - Fetched 1 train records for location: DELHI, time: 11:00, and destination: PUNE
+2024-08-27 13:14:19,464 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:14:19] "GET /railway?location=DELHI&time=11:00&destination=PUNE HTTP/1.1" 200 -
+2024-08-27 13:14:29,047 - __main__ - INFO - Railway route accessed with location: DELHI, time: 14:00, and destination: PUNE
+2024-08-27 13:14:29,050 - __main__ - INFO - Database connected successfully
+2024-08-27 13:14:29,050 - __main__ - INFO - Fetched 0 train records for location: DELHI, time: 14:00, and destination: PUNE
+2024-08-27 13:14:29,050 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2024 13:14:29] "GET /railway?location=DELHI&time=14:00&destination=PUNE HTTP/1.1" 200 -
